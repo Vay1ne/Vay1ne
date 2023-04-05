@@ -1,6 +1,7 @@
 ### Hi there 👋
-undergraduate in HFUT, with major Computer Science
-postgraduate in USTC, research in Affective Computing
+undergraduate in HFUT, with major Computer Science.
+
+postgraduate in USTC, research in Affective Computing.
 
 ***interested in Big Data, Python, Fishing...***
 <!--
