@@ -1,5 +1,6 @@
 ### Hi there 👋
-合肥工业大学大二计科小菜鸡
+undergraduate in HFUT, with major Computer Science
+postgraduate in USTC, reasearch in Affective Computing
 
 ***interested in Big Data, Java, Fishing...***
 <!--
