@@ -1,8 +1,8 @@
 ### Hi there 👋
 undergraduate in HFUT, with major Computer Science
-postgraduate in USTC, reasearch in Affective Computing
+postgraduate in USTC, research in Affective Computing
 
-***interested in Big Data, Java, Fishing...***
+***interested in Big Data, Python, Fishing...***
 <!--
 **Vay1ne/Vay1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
