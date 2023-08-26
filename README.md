@@ -1,5 +1,5 @@
 ### Hi there 👋
-undergraduate in HFUT, with major Computer Science.
+undergraduate in HFUT, with major in Computer Science.
 
 postgraduate in USTC, research in Recommendation system.
 
